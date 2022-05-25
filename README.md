@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TDev236
+- 👀 Selft Taught Jr Front End Engineer
+- I 💓 Javascript
